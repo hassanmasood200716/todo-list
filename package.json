@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "inquirer": "^9.3.4"
+  },
+  "name": "hassan-todo-list",
+  "version": "1.0.0",
+  "description": "this list is made by hassan masood",
+  "main": "main.js",
+  "type": "module",
+  "bin": {
+    "todo-list": "main.js"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hassan masood",
+  "license": "MIT"
+}
